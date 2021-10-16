@@ -74,6 +74,19 @@ header{
   justify-content: space-between;
   padding:2rem 9%;
 }
+.row{
+  display: flex;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+}
+.row p{
+  font-size: 3rem;
+
+}
+.text-heading{
+  font-size: 8rem;
+}
 
 header .logo{
   font-size: 2.5rem;
